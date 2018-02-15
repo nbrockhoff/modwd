@@ -1,3 +1,14 @@
 body {
-  background-color: plum;
+  background-color: orchid;
+}
+
+h1 {
+  color: #fff;
+  font-size: 1.5em;
+}
+
+h1 :hover {
+  font-size: 2em;
+  -webkit-transition: font-size 1s ease;
+  transition: font-size 1s ease;
 }
