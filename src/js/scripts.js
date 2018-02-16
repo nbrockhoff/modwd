@@ -1,3 +1,8 @@
-function say_hola() {
-    alert("hola!");
-}
+global.jQuery = require('jquery');
+popper = require('popper.js');
+bootstrap = require('bootstrap');
+mustache = require('mustache');
+
+jQuery(document).ready(function() {
+    alert('Bonjour, Bitches!');
+});
