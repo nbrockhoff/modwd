@@ -1,0 +1,124 @@
+{
+    "gallery": [{
+            "common-name": "Canada Anemone",
+            "image": "img1.jpg",
+            "other-common-names": ["Round-leaf Thimbleweed"],
+            "latin-name": "Anemone canadaensis",
+            "plant-family": "Ranunculaceae (Buttercup)",
+            "physical-characteristics": {
+                "life-cycle": "Perennial",
+                "height": "12 to 14 inches",
+                "description": ["White flowers"]
+            },
+            "bloom-period": "May to July",
+            "notes-habitat": ["Found in meadows and woodland edges", "Native patches are common on roadsides", "Requires moist soil", "Prefers full sun, but will grow in partial shade"],
+            "notes-general": ["Rhizomatous", "Polinated by bees and flies", "Easy to grow", "Good ground cover"]
+        },
+        {
+            "common-name": "Foxglove Beardtongue",
+            "image": "img2.jpg",
+            "other-common-names": ["Foxglove Penstemon", "Beardtongue", "Penstemon"],
+            "latin-name": "Penstemon digitalis",
+            "plant-family": "Scrophulariaceae (Snapdragon)",
+            "physical-characteristics": {
+                "life-cycle": "Perennial",
+                "height": "24 to 36 inches",
+                "description": ["1-inch tubular white colored flowers", "Shiny green opposite leaves up to 5 inches long"]
+            },
+            "bloom-period": "Late spring to early summer",
+            "notes-habitat": ["Found in meadows and prairies on moise, sandy soil", "More common in southeastern Iowa"],
+            "notes-general": ["Hummingbirds are attracted to the tubular-shaped flowers", "The 'Beardtongue' name refers to the presence of a fifth stamen, which in many species has a hairy tip or beard", "The name 'Penstemon' is Greek for 'five stamens'", "Pnstemon digitalis is less common in Iowa native prairies than other Penstemon species, but is used in roadside plantings because it grows easily from seed and is very showy", "Decorative seed capsules add interest in the fall and winter"]
+        },
+        {
+            "common-name": "White Wild Indigo",
+            "image": "img3.jpg",
+            "other-common-names": ["Great Baptista", "False Indigo", "Great False Indigo", "Largeleaf Wild Indigo", "White False Indigo", "White Prairie Wild Indigo"],
+            "latin-name": "Baptista lactea",
+            "plant-family": "Fabaceae (Bean)",
+            "physical-characteristics": {
+                "life-cycle": "Perennial",
+                "height": "3 to 6 feet tall",
+                "description": ["White flowers on 2 foot racemes", "blue-green leaves in three parts", "Root extends 10 feet"]
+            },
+            "bloom-period": "May to June",
+            "notes-habitat": ["Prefers sandy, loamy and well-drained soils and full sun", "Occurs naturally in sandy pine woods, prairies and open areas"],
+            "notes-general": ["Seed needs special treatment to grow", "The plant was used as a blue dye, hence the name 'Indigo'"]
+        },
+        {
+            "common-name": "Culver's Root",
+            "image": "img4.jpg",
+            "other-common-names": ["Black Root", "Blackroot", "Culver", "Culver’s Physic", "Culver’s Root", "Culverwortel", "Physic Root"],
+            "latin-name": "Veronicastrum virginicum",
+            "plant-family": "Scrophulariaceae (Snapdragon)",
+            "physical-characteristics": {
+                "life-cycle": "Decidious Perennial",
+                "height": "3 to 4 feet tall",
+                "description": ["Grows 3 to 4 feet wide", "White flowers in several racemes at the top of the stocks", "Leaves are whorled"]
+            },
+            "bloom-period": "Late summer from July to August",
+            "notes-habitat": ["Naturally occuring in meadows, thickets and prairies, and woodland edges", "Prefers moist, well-drained soil and full sun", "Tends to flop without full sun"],
+            "notes-general": ["Was used medicinally by several native North American First Nations tribes to treat a variety of compalints", "Politnated by insects", "Attracts butterflies"],
+            "warning": "Caution is advised since the plant is potentially toxic"
+        },
+        {
+            "common-name": "Rattlesnake Master",
+            "image": "img5.jpg",
+            "other-common-names": ["Button Snake-root", "Button Snakeroot", "Snakeroot"],
+            "latin-name": "Eryngium yuccifolium",
+            "plant-family": "Apiaceae (Parsley)",
+            "physical-characteristics": {
+                "life-cycle": "Evergreen Perennial",
+                "height": "2 to 3 feet",
+                "description": ["In leaf all year", "Has an arid, yucca-like foliage, with thick, waxy leaves that are silver-green in color", "Flowers are umbels, like dill or parsley, but compacted into a tight, knobby ball about one inch in diameter", "Fruit essentially looks the same as the flowers, only darkening to a dull brown and remaining on the stalks for the remainder of the season", "Seed head contains many 1/4-inch long seeds", "individual flowers are greenish-white and surrounded by larger pointed bracts"]
+            },
+            "bloom-period": "July to September",
+            "notes-habitat": ["Found in established prairies", "Prefers moist to mesic, well-drained soil"],
+            "notes-general": ["The name is derived from an old belief that the root could be used to heal rattlesnake bites – roots were chewed and applied to the bite", "Pollinated by bees, flies and beetles", "Easy to grow from seed"]
+        },
+        {
+            "common-name": "Prairie Sage",
+            "image": "img6.jpg",
+            "other-common-names": ["Louisiana Sagewort", "Western Mugwort", "White Sagebrush", "Prairie Sagebrush"],
+            "latin-name": "Artemisia ludoviciana",
+            "plant-family": "Asteraceae (Aster)",
+            "physical-characteristics": {
+                "life-cycle": "Perennial",
+                "height": "2 to 3 feet",
+                "description": ["Rhizomatous", "Striking silver foliage", "Inconspicuous greenish-white flowers"]
+            },
+            "bloom-period": "August to October",
+            "notes-habitat": ["Natural habitat includes prairies and savannas, prefers sandy, loamy and well-drained soil", "prefers full sun, but can grow in semi-shade (light woodland)", "often seen growing in silver patches on Iowa roadsides because of rhizomatous growth", "Pollinated by the wind", "Grows easily by seed and division"],
+            "notes-general": ["Leaves and flowering heads are used as a flavoring or garnish for sauces and gravies", "An herb tea is made from the leaves and flowering heads", "Leaves are astringent", "Commonly used by North American First Nations peoples for various medicinal purposes and as an underarm deodorant"]
+        },
+        {
+            "common-name": "Canada Milkvetch",
+            "image": "img7.jpg",
+            "other-common-names": ["Canada Milk-vetch", "Little Rattlepod"],
+            "latin-name": "Astragalus canadensis",
+            "plant-family": "Fabaceae (Bean)",
+            "physical-characteristics": {
+                "life-cycle": "Perennial",
+                "height": "2 to 3 feet",
+                "description": ["Dark green leaves with seven to 15 leaflets", "Showy, cream-colored pea-like flowers", "Attractive pods in cluster around stem"]
+            },
+            "bloom-period": "July to August",
+            "notes-habitat": ["Occurs in prairies and open woods", "Grows in well-drained, wet-dry soils", "Prefers full sun", "Grows well in disturbed areas"],
+            "notes-general": ["Seed requires special treatment to germinate"]
+        },
+        {
+            "common-name": "Roundheaded Bushclover",
+            "image": "img8.jpg",
+            "other-common-names": ["Lespedeza", "Round-head Bush-clover", "Roundhead Bushclover", "Round-headed Bushclover"],
+            "latin-name": "Lespedeza capitata",
+            "plant-family": "Fabaceae (Bean)",
+            "physical-characteristics": {
+                "life-cycle": "Perennial",
+                "height": "2 to 3 feet",
+                "description": ["Non-showy, creamy white-colored flowers on dense, rounded heads 1 1/2 inches in diameter", "Velvety foliage", "Tan-brown seed heads"]
+            },
+            "bloom-period": "July, August and September",
+            "notes-habitat": ["Occurs in dry prairies and savannas", "Prefers sandy, loamy and well-drained soils, and full sun"],
+            "notes-general": ["Plant contains several biologically active compounds and pharmaceutical preparations are manufactured from them", " Seedheads are attractive in winter", "Seeds are eaten by songbirds and other game", "The stout stem provides a good bird perch"]
+        }
+    ]
+}
