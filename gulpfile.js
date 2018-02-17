@@ -57,7 +57,7 @@ gulp.task('sass', function() {
         .pipe(gulp.dest(APPPATH.css));
 });
 
-gulp.task('images', function() {
+gulp.task('images', ['clean-images'], function() {
     return gulp.src(SOURCEPATHS.imgSource)
         .pipe(newer(APPPATH.img))
         .pipe(imagemin())
@@ -131,7 +131,7 @@ gulp.task('watch', ['serve', 'sass', 'clean-html', 'clean-scripts', 'scripts', '
     gulp.watch([SOURCEPATHS.sassSource], ['sass']);
     //gulp.watch([SOURCEPATHS.htmlSource], ['copy']);
     gulp.watch([SOURCEPATHS.jsSource], ['scripts']);
-    gulp.watch([SOURCEPATHS.imgSource], ['images']);
+    gulp.watch([SOURCEPATHS.imgSource], ['images', 'clean-images']);
     gulp.watch([SOURCEPATHS.htmlSource, SOURCEPATHS.htmlPartialSource], ['html', 'clean-html']);
 });
 
